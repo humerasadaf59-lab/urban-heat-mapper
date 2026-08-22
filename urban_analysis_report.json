@@ -1,0 +1,57 @@
+{
+  "timestamp": "2026-08-21T21:59:00.722144",
+  "locations_analyzed": 3,
+  "data": {
+    "Washington, DC": {
+      "name": "Washington, DC",
+      "coordinates": {
+        "latitude": 38.9072,
+        "longitude": -77.0369
+      },
+      "timestamp": "2026-08-21T21:58:31.707192",
+      "environmental": null,
+      "urban_composition": null,
+      "risk_assessment": {
+        "heat_island_risk": "LOW",
+        "air_quality_risk": "LOW",
+        "urban_density": "LOW",
+        "green_space_score": 100,
+        "livability_score": 100
+      }
+    },
+    "Seattle, WA": {
+      "name": "Seattle, WA",
+      "coordinates": {
+        "latitude": 47.6062,
+        "longitude": -122.3321
+      },
+      "timestamp": "2026-08-21T21:58:42.322442",
+      "environmental": null,
+      "urban_composition": null,
+      "risk_assessment": {
+        "heat_island_risk": "LOW",
+        "air_quality_risk": "LOW",
+        "urban_density": "LOW",
+        "green_space_score": 100,
+        "livability_score": 100
+      }
+    },
+    "Philadelphia, PA": {
+      "name": "Philadelphia, PA",
+      "coordinates": {
+        "latitude": 39.9526,
+        "longitude": -75.1652
+      },
+      "timestamp": "2026-08-21T21:58:50.456964",
+      "environmental": null,
+      "urban_composition": null,
+      "risk_assessment": {
+        "heat_island_risk": "LOW",
+        "air_quality_risk": "LOW",
+        "urban_density": "LOW",
+        "green_space_score": 100,
+        "livability_score": 100
+      }
+    }
+  }
+}
