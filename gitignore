@@ -1,0 +1,92 @@
+# API Keys and sensitive data
+.env
+.env.local
+.env.*.local
+*.key
+*.pem
+*.pub
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv
+
+# IDE and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+.sublime-project
+.sublime-workspace
+*.iml
+
+# OS files
+Thumbs.db
+.DS_Store
+*.bak
+*.tmp
+
+# Logs
+*.log
+logs/
+
+# Project outputs (optional - uncomment if you don't want to share)
+# heat_equity_report.json
+# urban_analysis_report.json
+# *.csv
+# *.xlsx
+
+# Credentials
+credentials.json
+token.json
+secrets.yaml
+
+# Cache
+.cache/
+*.cache
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Temporary files
+*.tmp
+*.temp
+.#*
+*~
+*.swp
+*.swo
